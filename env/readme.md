@@ -1,1 +1,1 @@
-The file with the environment will be available by midnight 25th Jan.
+The file with the environment will be available by 10am 26th Jan.
