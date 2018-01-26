@@ -1,4 +1,4 @@
-name: amldtest
+name: amld
 dependencies:
 - bokeh=0.12.5
 - plotly=2.2.2
