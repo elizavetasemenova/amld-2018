@@ -4,6 +4,12 @@
 
 ```conda env create -f amld.yml```
 
+3). Enter the envoronment
+
+```source activate amld```
+
+Does it work?
+
 3). Install additional libraries
 
 pip install wordcloud==1.3.1
