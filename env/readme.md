@@ -11,6 +11,7 @@ The file with the environment that we provide might be an overkill. In case you 
 - scikit-learn=0.19.1
 - spacy=2.0.5
 - tensorflow=1.1.0
+- pandas=0.22.0
 
 
 and this one with 'pip install'
