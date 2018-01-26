@@ -1,5 +1,6 @@
-name: amldtest
+name: amldtest3
 dependencies:
+- python>=3.6
 - bokeh=0.12.5
 - plotly=2.2.2
 - networkx=1.11
@@ -11,4 +12,6 @@ dependencies:
 - spacy=2.0.5
 - tensorflow=1.1.0
 - pandas=0.22.0
-
+- pip:
+        - wordcloud
+        - ipykernel
