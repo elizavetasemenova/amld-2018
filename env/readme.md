@@ -1,4 +1,4 @@
-1). Install Anaconda (miniconda would suffice)
+1). Install Anaconda (miniconda would suffice) with Python 3
 
 2). Import the environment from the .yml file:
 
@@ -12,4 +12,4 @@ Does it work?
 
 3). Install additional libraries
 
-pip install wordcloud==1.3.1
+```pip install wordcloud==1.3.1```

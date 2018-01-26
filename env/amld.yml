@@ -1,4 +1,4 @@
-name: amldtest3
+name: amld
 dependencies:
 - python>=3.6
 - bokeh=0.12.5
