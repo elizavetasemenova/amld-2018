@@ -18,6 +18,8 @@ source activate amld
 ## Downloading the dataset
 ~~~
 cd data
-curl https://www.dropbox.com/s/ukifanl57wzp7cj/datajson_sample.json?dl=0 -L -o dataset.json
+curl https://www.dropbox.com/s/k16jptjyccxfdkn/clean_json.json?dl=0 -L -o clean_json.json
+curl https://www.dropbox.com/s/20suwbl2l287r54/fulldatastuff.json?dl=0 -L -o fulldatastuff.json
+curl https://www.dropbox.com/s/8oxuk3wg8fhtt8z/train_bodies.csv?dl=0 -L -o train_bodies.csv
+curl https://www.dropbox.com/s/z6fqkr2v3qydzsb/train_stances.csv?dl=0 -L -o train_stances.csv
 ~~~
- 
