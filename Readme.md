@@ -34,4 +34,4 @@ Morning
 Afternoon
 1. Wikileaks data processing
 2. Wikileaks data vsualization
-3. Information retrieval, Text summarization, Deep Learning for fake news detection
+3. Text to speech, Information retrieval, Text summarization, Deep Learning for fake news detection
