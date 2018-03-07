@@ -28,10 +28,10 @@ curl https://www.dropbox.com/s/z6fqkr2v3qydzsb/train_stances.csv?dl=0 -L -o trai
 
 Morning
 1. Crash course in Python
-2. Intrduction to Natural Language Prcessing
+2. Introduction to Natural Language Prcessing
 3. Introduction to Neural Networks and Deep Learning
 
 Afternoon
 1. Wikileaks data processing
-2. Wikileaks data vsualization
+2. Wikileaks data visualization
 3. Text to speech, Information retrieval, Text summarization, Deep Learning for fake news detection
