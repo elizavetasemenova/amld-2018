@@ -1,4 +1,4 @@
-Material for [the workshop at Appled Machine Learning Days 2018](https://www.appliedmldays.org/workshop_sessions/machine-learning-for-news-theory-applications-and-visualisation-in-python): "Machine Learning for News: Theory, Applications and Visualisation in Python". Any content of this repository is subject to change both before and after the workshop.
+Material for [the workshop at Appled Machine Learning Days 2018](https://www.appliedmldays.org/conf2018/workshop_sessions/machine-learning-for-news-theory-applications-and-visualisation-in-python.1): "Machine Learning for News: Theory, Applications and Visualisation in Python". Any content of this repository is subject to change both before and after the workshop.
 
 ## Getting started
 
